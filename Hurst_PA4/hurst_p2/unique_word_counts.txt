@@ -1,0 +1,1 @@
+{Apples=2, Bananas=3, Eggplant=3, Mango=4, Clementines=1}
